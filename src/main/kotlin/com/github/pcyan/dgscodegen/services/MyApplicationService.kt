@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.pcyan.dgscodegen.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.pcyan.dgscodegen.MyBundle
 
 class MyApplicationService {
 
